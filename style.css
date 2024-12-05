@@ -252,6 +252,10 @@ p {
   gap: 20px;
 }
 
+.Clipboard h2 {
+  color: var(--color-h);
+}
+
 .Clipboard .button {
   margin-bottom: 20px;
   display: flex;
